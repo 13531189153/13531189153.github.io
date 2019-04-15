@@ -1,0 +1,4 @@
+User-agent：*
+Disallow： /favicon.ioc
+
+Sitemap： https：//13531189153.github.io/sitemap.xml
